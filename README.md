@@ -1,6 +1,10 @@
 # Solar-Tracker
 Final project for CS 3651- Prototyping Intelligent Devices
 
+
+![Final Build](/Image/IMG.jpg)
+
+
 ## Description
 Solar energy is one form of energy cleaner than fossil fuels, and can be harnessed even more effectively with a device that can follow the sun’s movements and have dust on the surface automatically cleared.
 
